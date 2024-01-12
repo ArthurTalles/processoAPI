@@ -1,0 +1,1 @@
+insert into departamento(id, titulo)values(1, 'Financeiro'),(2,'Comercial'), (3,'Desenvolvimento');
